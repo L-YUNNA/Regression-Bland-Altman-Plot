@@ -11,8 +11,8 @@ x축(mean) : mean(true, pred)<br>
 y축(difference) : true - pred<br>
 계산된 값에 대한 선형회귀선과 95% 신뢰구간 (confidence interval)<br>
 
-**high negative diff : over-estimating<br>
-**high positive diff : under-estimating<br>
+**high negative diff** : over-estimating<br>
+**high positive diff** : under-estimating<br>
 
 
 
