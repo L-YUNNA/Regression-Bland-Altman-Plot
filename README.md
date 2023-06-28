@@ -1,4 +1,5 @@
 # Regression-Bland-Altman-Plot
+코드 사용 시, 출처 표기 바랍니다.
 
 ![image](https://github.com/L-YUNNA/Regression-Bland-Altman-Plot/assets/129636660/fce3c964-f32c-47db-bd91-9e1e8ab2f8f6)
 
